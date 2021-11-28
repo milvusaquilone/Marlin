@@ -28,7 +28,7 @@
  *
  * - Type of electronics
  * - Type of temperature sensor
- * - Printer geometry
+ * - Printer geometry 
  * - Endstop configuration
  * - LCD controller
  * - Extra features
@@ -1014,7 +1014,7 @@
  *
  * See https://github.com/synthetos/TinyG/wiki/Jerk-Controlled-Motion-Explained
  */
-#define S_CURVE_ACCELERATION
+//#define S_CURVE_ACCELERATION
 
 //===========================================================================
 //============================= Z Probe Options =============================
