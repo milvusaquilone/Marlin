@@ -1,0 +1,4 @@
+[submodule "Configurations"]
+	path = Configurations
+	url = git@github.com:MarlinFirmware/Configurations.git
+	branch = release-2.0.9.3
